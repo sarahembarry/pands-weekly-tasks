@@ -12,7 +12,7 @@ amount2 =int(input('Enter amount 2 (in cent):'))
 sum =(amount1+amount2)
 
 
-## Here I a, creating the text response 
+## Here I am creating the text response 
 ##and formatting the number value to 2 decimal places
 
 
