@@ -13,13 +13,13 @@ sum =(amount1+amount2)
 
 
 ## Here I am creating the text response 
-##and formatting the number value to 2 decimal places
+## and formatting the number value to 2 decimal places
 
 
 txt = 'The sum of these is € {:.2f}'
 
 ## Here i'm using the above to format what i want printed as the reposnse 
-## and dividing the sum (cent value) by 100 to bring it to euros.
+## and dividing the sum (cent value) by 100 to bring it to a euro format.
 
 print(txt.format(sum/100))
       
