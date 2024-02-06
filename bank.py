@@ -8,8 +8,10 @@ amount2 =int(input('Enter amount 2 (in cent):'))
 
 
 ## Here I am creating the sum of these 2 values
+## Then diving by 100 to bring it to a euro format
 
-sum =(amount1+amount2)
+sum1 =(amount1+amount2)
+sum2 =(sum1/100)
 
 
 ## Here I am creating the text response 
@@ -18,10 +20,10 @@ sum =(amount1+amount2)
 
 txt = 'The sum of these is € {:.2f}'
 
-## Here i'm using the above to format what i want printed as the reposnse 
-## and dividing the sum (cent value) by 100 to bring it to a euro format.
+## Here I am using the above to format what i want printed as the reposnse 
 
-print(txt.format(sum/100))
+
+print(txt.format(sum2))
       
 
  
