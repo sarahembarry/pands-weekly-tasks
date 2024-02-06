@@ -8,7 +8,7 @@ amount2 =int(input('Enter amount 2 (in cent):'))
 
 
 ## Here I am creating the sum of these 2 values
-## Then diving by 100 to bring it to a euro format
+## Then dividing by 100 to bring it to a euro format
 
 sum1 =(amount1+amount2)
 sum2 =(sum1/100)
