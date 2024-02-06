@@ -16,6 +16,7 @@ sum2 =(sum1/100)
 
 ## Here I am creating the text response 
 ## and formatting the number value to 2 decimal places
+## I got this information here : (https://www.w3schools.com/python/python_string_formatting.asp)
 
 
 txt = 'The sum of these is € {:.2f}'
