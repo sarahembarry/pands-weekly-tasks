@@ -19,12 +19,9 @@ sum2 =(sum1/100)
 ## I got this information here : (https://www.w3schools.com/python/python_string_formatting.asp)
 
 
-txt = 'The sum of these is € {:.2f}'
 
-## Here I am using the above to format what i want printed as the reposnse 
+print('The sum of these is € {:.2f}'.format(sum2))
 
 
-print(txt.format(sum2))
-      
 
  
