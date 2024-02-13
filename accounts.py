@@ -29,3 +29,4 @@ print (F"number is {OutPutAccountNo}")
 
 #I would then use the above variable to slice
 #SlicedAccountNo= AccountNo[(LeadingNumbers):]
+
