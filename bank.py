@@ -20,7 +20,7 @@ sum2 =(sum1/100)
 
 
 
-print('The sum of these is € {:.2f}'.format(sum2))
+print(f'The sum of these is € {sum2:.2f}')
 
 
 
