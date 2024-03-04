@@ -24,7 +24,7 @@ def sqrt(number):
 
 
 
-#Main program
+#Main Program
 
 #Asking the user to input a positive number.This can be a float. The variable 'number' will be the parameter/argument for the function.
 number = float(input("please enter a positive number:"))
