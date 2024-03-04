@@ -1,5 +1,5 @@
 # pands-weekly-tasks
 
-<b> Table of Contents:<b> 
-1: Project Description
-3: Credits and Refrences
+### Table of Contents:
+1. [Project Description](#project-description)
+2. [Credits and References](#credits-and-references)
