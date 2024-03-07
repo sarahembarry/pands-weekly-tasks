@@ -1,4 +1,9 @@
 
+##https://www.educative.io/answers/how-to-generate-the-collatz-sequence-in-python
+##https://medium.com/@chakshugupta774/exploring-the-collatz-conjecture-with-python-7c5d9f31d233
+##https://www.educative.io/answers/how-to-implement-the-collatz-sequence-in-c-and-python
+
+
 #Here i am creating the input as an interger
 number = int(input("Please enter a positive interger"))
 
