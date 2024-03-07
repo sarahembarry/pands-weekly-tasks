@@ -1,7 +1,5 @@
-## Resoource 1: https://www.shecodes.io/athena/10185-how-to-check-what-day-of-the-week-it-is-in-python#:~:text=date%20using%20datetime.-,datetime.,)%20to%206%20(Sunday).
-## Resource 2: https://pythontic.com/datetime/date/weekday
-## Resource 3: https://ioflood.com/blog/python-get-current-date/#:~:text=To%20get%20the%20current%20date%20in%20Python%2C%20you%20can%20use,function%20from%20the%20datetime%20module.
 
+#See README.md for references > Credits and References >Program :Weekday.py
 
 
 

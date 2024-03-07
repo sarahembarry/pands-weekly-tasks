@@ -1,21 +1,5 @@
 
-##References 
-##Count number of a letter in a text file:
-## https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
-##Raising value errors
-##https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python
-##https://www.digitalocean.com/community/tutorials/python-valueerror-exception-handling-examples
-##Filename Pattern Matching
-##https://realpython.com/working-with-files-in-python/
-## https://www.youtube.com/watch?v=FPSKYi5jUG8 (How to Validate the File Type of a File Using Python (Simple),Max O'Didily)
-##Os path exsists method
-##https://www.geeksforgeeks.org/python-os-path-exists-method/
-##https://www.freecodecamp.org/news/how-to-check-if-a-file-exists-in-python/
-##https://ioflood.com/blog/python-check-if-file-exists/#:~:text=One%20of%20the%20simplest%20ways,writing%20to%20the%20file%20system.
-##Command line arguments
-## https://www.youtube.com/watch?v=rJCl7t3IIbA (Run Python Scripts With Command Line Arguments Using sys.argv (With Examples,Fabio Musanni - Programming Channel)
-## https://www.knowledgehut.com/blog/programming/sys-argv-python-examples
-##https://discuss.codecademy.com/t/reading-files-from-command-line/597287
+#See README.md for references > Credits and References >Program :es.py
 
 
 # Importing the 'sys' and 'os' modules

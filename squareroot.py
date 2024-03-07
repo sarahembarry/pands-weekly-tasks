@@ -1,9 +1,4 @@
-
-#Resources:
-#https://thirumalai2024.medium.com/python-program-to-find-square-root-of-the-number-using-newtons-method-937c0e732756#:~:text=0.5*(approx%2Bn%2Fapprox,square%20root%20of%20the%20number.
-#https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo
-#https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html
-
+#See README.md for references > Credits and References >Program :squareroot.py
 
 
 
