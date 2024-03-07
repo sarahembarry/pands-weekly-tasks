@@ -11,19 +11,19 @@
 **Description**: Days of the Week in Python
 - **Source**: [shecodes.io](https://www.shecodes.io/)
 - **Date**: 2023
-- **Link**: [How to Check What Day of the Week it is in Python] (https://www.shecodes.io/athena/10185-how-to-check-what-day-of-the-week-it-is-in-python#:~:text=date%20using%20datetime.-,datetime.,)%20to%206%20(Sunday)
+- **Link**: [How to Check What Day of the Week it is in Python](https://www.shecodes.io/athena/10185-how-to-check-what-day-of-the-week-it-is-in-python#:~:text=date%20using%20datetime.-,datetime.,)%20to%206%20(Sunday)
 
 
 **Description**: Weekday function in Python
 - **Source**: [pythontic.com](https://pythontic.com/)
 - **Date**: 2023
-- **Link**: [Weekday Function In Python] (https://pythontic.com/datetime/date/weekday)
+- **Link**: [Weekday Function In Python](https://pythontic.com/datetime/date/weekday)
 
 
 **Description**: Get current date in Python
 - **Source**: [Gabriel Ramuglia ](https://ioflood.com/blog/author/gabriel-ramuglia/)
 - **Date**: 2023
-- **Link**: [Python Get Current Date | date.today() And More] (https://ioflood.com/blog/python-get-current-date/#:~:text=To%20get%20the%20current%20date%20in%20Python%2C%20you%20can%20use,function%20from%20the%20datetime%20module.)
+- **Link**: [Python Get Current Date | date.today() And More](https://ioflood.com/blog/python-get-current-date/#:~:text=To%20get%20the%20current%20date%20in%20Python%2C%20you%20can%20use,function%20from%20the%20datetime%20module.)
 
 ---
 
@@ -32,19 +32,19 @@
 **Description**: Newton's method in Python
 - **Source**: [Thiru Malai](https://thirumalai2024.medium.com/)
 - **Date**: 2021
-- **Link**: [Python program to find square root of the number using Newton’s method.] (https://thirumalai2024.medium.com/python-program-to-find-square-root-of-the-number-using-newtons-method-937c0e732756#:~:text=0.5*(approx%2Bn%2Fapprox,square%20root%20of%20the%20number.)
+- **Link**: [Python program to find square root of the number using Newton’s method.](https://thirumalai2024.medium.com/python-program-to-find-square-root-of-the-number-using-newtons-method-937c0e732756)
 
 
 **Description**: Newton's method in Python
 - **Source**: [Suraj Regmi](https://hackernoon.com/u/suraj-regmi)
 - **Date**: 2020
-- **Link**: [Calculating the Square Root of a Number using the  Newton-Raphson Method [A How To Guide]] (https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo)
+- **Link**: [Calculating the Square Root of a Number using the Newton-Raphson Method [A How To Guide]](https://hackernoon.com/calculating-the-square-root-of-a-number-using-the-newton-raphson-method-a-how-to-guide-yr4e32zo)
 
 
 **Description**: Newton's method in Python
 - **Source**: [Runestone Academy](https://runestone.academy/)
 - **Date**: 2020
-- **Link**: [How to Think Like a Computer Scientist: Interactive Edition: 8.6 - Newton’s Method] (https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html#newton-s-method)
+- **Link**: [How to Think Like a Computer Scientist: Interactive Edition: 8.6 - Newton’s Method](https://runestone.academy/ns/books/published/thinkcspy/MoreAboutIteration/NewtonsMethod.html#newton-s-method)
 
 
 ---
