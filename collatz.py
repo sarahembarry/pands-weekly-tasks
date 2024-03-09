@@ -1,23 +1,20 @@
+# See README.md for references > Credits and References >Program :collatz.py
+# Week 4 weekly task.
 
-##https://www.educative.io/answers/how-to-generate-the-collatz-sequence-in-python
-##https://medium.com/@chakshugupta774/exploring-the-collatz-conjecture-with-python-7c5d9f31d233
-##https://www.educative.io/answers/how-to-implement-the-collatz-sequence-in-c-and-python
-
-
-#Here i am creating the input as an interger
+#1: Defining the input ans an int.
 number = int(input("Please enter a positive interger"))
 
-#Here i am printing in input number so it will be the first number that outputs.
+#2: Printing in input number so it will be the first number that outputs.
 print (int(number))
-#Here I'm stating that i wish the loop to continue while the number is not equal to one.
+#3: Stating that the loop is to continue while the number is not equal to one.
 while number!=1:
-    #Here I am stating that if the number is even it is to be divided by 2.
+    #4: Stating that while: if the number is even it is to be divided by 2.
     if number%2 ==0:
         number=number/2
-    #Here I am stating that if the number is not even it is to be multiplied by 3 then add 1.    
+    #5: Stating that else: if the number is not even it is to be multiplied by 3 then add 1.    
     else:
         number = 3* number+1
-    #Here i am printing the output of the loop.    
+    #6: Here i am printing the output of the loop.    
     print (int(number))    
 
      
