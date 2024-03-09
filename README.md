@@ -18,14 +18,14 @@
 - **Link**: [Python String Formatting](https://www.w3schools.com/python/python_string_formatting.asp)
 
 
-
+---
 
 ### Program: accounts.py
 **Description**: Strings in Python
 - **Source**: [John Sturtz ](https://realpython.com/python-strings/#author)
 - **Date**: 2018
 - **Link**: [Strings and Character Data in Python](https://realpython.com/python-strings/#string-operators)
-
+---
 ### Program: collatz.py
 **Description**: Collatz sequence in Python
 - **Source**: [Aarthi Reddy](https://www.educative.io/profile/view/4843485119643648)
@@ -42,7 +42,7 @@
 - **Date**: 2024
 - **Link**: [How to implement the collatz sequence in C and Python](https://www.educative.io/answers/how-to-implement-the-collatz-sequence-in-c-and-python)
 
-
+---
 
 ### Program: weekday.py
 **Description**: Days of the Week in Python
