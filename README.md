@@ -2,7 +2,48 @@
 1. [Project Description](#project-description)
 2. [Credits and References](#credits-and-references)
 
-## Project Description
+## Program Descriptions
+
+
+### Program: bank.py
+**Description**: This program was created for the weekly task set in week 2.
+- This program will:
+- Prompt the user and read in two money amounts (in cent).
+- Add the two amounts.
+- Print out the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount.
+
+### Program: accounts.py
+**Description**: This program was created for the weekly task set in week 3.
+- This program will:
+- Read in a 10 character account number and output the account number with only the last 4 digits showing.
+- The first 6 digits of the account number will be replaced witth 'Xs' .
+
+### Program: collatz.py
+**Description**: This program was created for the weekly task set in week 4.
+- This program will:
+- Ask the user to input a positive integer and outputs the successive values of the following calculation:
+- At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
+- The program will end when the current value is one.
+
+
+### Program: weekday.py
+**Description**: This program was created for the weekly task set in week 5.
+- When this program is ran it will:
+- Respond with the message 'Yes, unfortunately today is a weekday.' If today is a weekday
+- Or, Respond with the message 'It is the weekend, yay!' If today is a weekend.
+
+### Program: squareroot.py
+**Description**: This program was created for the weekly task set in week 6.
+- When this program will:
+- Take in a floating-point positive number and output an approximation of its square root.
+- This program uses the Newton method of approximating the square root of a number.
+
+### Program: es.py
+**Description**: This program was created for the weekly task set in week 7.
+- When this program will:
+- Read a text file input on the command line and output the number of 'e's it contains.
+- If the file is not a text file or does not exsist the program will return an error.
+
 
 ## Credits and References
 
