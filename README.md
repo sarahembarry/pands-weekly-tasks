@@ -188,6 +188,20 @@
 - **Date**: 2023
 - **Link**: [How to Use sys.argv in Python With Examples](https://www.knowledgehut.com/blog/programming/sys-argv-python-examples)
 
+---
+
+
+### Program: plottask.py
+ **Description**: Normal Distribution
+- **Source**: [w3schools.com/](https://www.w3schools.com/)
+- **Date**: 2024
+- **Link**: [Normal (Gaussian) Distribution](https://www.w3schools.com/python/numpy/numpy_random_normal.asp)
+
+**Description**: Matplotlib Histograms (editing the appearance of the histogram)
+- **Source**: [geeksforgeeks.org ](https://www.geeksforgeeks.org/)
+- **Date Published**: 2024
+- **Link**: [Plotting Histogram in Python using Matplotlib](https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/)
+
 
 
 
