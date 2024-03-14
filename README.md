@@ -202,6 +202,17 @@
 - **Date Published**: 2024
 - **Link**: [Plotting Histogram in Python using Matplotlib](https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/)
 
+**Description**: NumPy arange() - creating a range of numbers in numpy
+- **Source**: [Mirko Stojiljković  ](https://realpython.com/how-to-use-numpy-arange/#author)
+- **Date Published**: 2019
+- **Link**: [NumPy arange(): How to Use np.arange()](https://realpython.com/how-to-use-numpy-arange/)
+
+**Description**: Matplotlib legend
+- **Source**: [geeksforgeeks.org](https://www.geeksforgeeks.org)
+- **Date Published**: 2014
+- **Link**: [Matplotlib.pyplot.legend() in Python](https://www.geeksforgeeks.org/matplotlib-pyplot-legend-in-python/)
+
+
 
 
 
