@@ -45,6 +45,12 @@
 - If the file is not a text file or does not exsist the program will return an error.
 
 
+### Program: plottask.py
+**Description**: This program was created for the weekly task set in week 8.
+- When this program will:
+- Generate a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2,
+- and a plot of the function h(x)=x^3 in the range 0 to 10 on one set of axes.
+
 ## Credits and References
 
 
