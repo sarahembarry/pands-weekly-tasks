@@ -9,14 +9,14 @@ import os
 
 
 
-#Funtion
+#Function
 
  #2: Define a function which takes in 2 arguments, the filename and the letter to be counted.
 def letterFrequency(FILENAME, letter):
     #3: Check that the file is a txt file and raise a value error if it is not.
     if not FILENAME.endswith(".txt"):
      raise ValueError("File is not a text file.")
-    #4: Use the 'os.path.exsists' method to check if the file exsists and raise a value error if it does not.
+    #4: Use the 'os.path.exists' method to check if the file exists and raise a value error if it does not.
     if not os.path.exists(FILENAME):
      raise ValueError("File does not exist.")
 

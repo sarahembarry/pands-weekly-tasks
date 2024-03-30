@@ -3,14 +3,14 @@
 
 
 
-#1: Define a funtion using Newton's method to find the square root of a number:
+#1: Define a function using Newton's method to find the square root of a number:
 def sqrt(number):
     #2: Half the 'number' that has been passed into the function to get an approximation of the square root.
     approx = 0.5 * number
     #3: Use Newton's method for the square root.
     improved = 0.5 * (approx + number / approx)
-    #4: Use a while loop : if 'improved' is not equal to 'approx' update the value for 'approx' to the value for 'improved'.
-    #The while loop re-runs and Newton's method is executed until 'improved' is equal to or very close to 'aprox'.
+    #4: Use a while loop : if 'improved' is not equal to 'approx', update the value for 'approx' to the value for 'improved'.
+    #The while loop re-runs and Newton's method is executed until 'improved' is equal to or very close to 'approx'.
     #Then loop terminates.
     while improved != approx:
         approx = improved

@@ -8,7 +8,7 @@
 
 from datetime import date
 
-#2: Setting the variable 'Today' as todays date.
+#2: Setting the variable 'Today' as today's date.
 
 today = date.today()
 
