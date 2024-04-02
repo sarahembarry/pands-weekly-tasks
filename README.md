@@ -1,5 +1,5 @@
 ## Table of Contents:
-1. [Project Description](#project-description)
+1. [Program Descriptions](#program-descriptions)
 2. [Credits and References](#credits-and-references)
 
 
